@@ -39,10 +39,9 @@ Built using **React.js**, **Tailwind CSS**, and **JavaScript**.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisheksingh7566&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="160px" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abhisheksingh7566&theme=tokyonight&hide_border=true&border_radius=10" height="160px" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhisheksingh7566&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="160px" />
+  <img src="https://github-readme-streak-stats-git-main-rstaa.vercel.app?user=abhisheksingh7566&theme=tokyonight&hide_border=true&border_radius=10" height="160px" />
 </p>
-
 ---
 
 ### 🌐 Connect with Me
