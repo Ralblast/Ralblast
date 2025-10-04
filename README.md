@@ -51,8 +51,8 @@ A smart, fast, and intuitive web app to help **VIT-AP students** plan their atte
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisheksingh7566&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="160px" />
-  <img src="https://streak-stats.demolab.com?user=abhisheksingh7566&theme=tokyonight&hide_border=true&border_radius=10" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ralblast&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="160px" />
+  <img src="https://streak-stats.demolab.com?user=Ralblast&theme=tokyonight&hide_border=true&border_radius=10" height="160px" />
 </p>
 
 ---
