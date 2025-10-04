@@ -10,6 +10,13 @@
   
   <h3> Computer Science Student | Aspiring Software Engineer | Full Stack developer</h3>
 
+  
+  <p>
+
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+Scalable+Solutions;Optimizing+for+Performance;Always+Learning+Something+New" alt="Typing SVG" />
+
+  </p>
+
   <p>
   <a href="https://www.linkedin.com/in/abhisheksingh7566" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937" alt="LinkedIn"/>
