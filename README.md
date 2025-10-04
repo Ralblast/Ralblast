@@ -8,7 +8,7 @@
     <img src="https.media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
-  <h3>🚀 Computer Science Student | Aspiring Software Engineer | Web Developer</h3>
+  <h3> Computer Science Student | Aspiring Software Engineer | Full Stack</h3>
 
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+Scalable+Solutions;Optimizing+for+Performance;Always+Learning+Something+New" alt="Typing SVG" />
