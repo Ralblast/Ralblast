@@ -77,9 +77,12 @@ A showcase of my skills, organized by category in a clean, easy-to-read format.
 ### 🧩 Featured Project
 
 #### 🗓️ [VIT-AP Attendance Planner](https://vit-ap-attendance-planner.vercel.app/)
-A smart, fast, and intuitive web app to help **VIT-AP students** plan their attendance efficiently.
--   **Built With:** **React.js**, **Tailwind CSS**, and **JavaScript**.
--   **Core Focus:** Designed for a clean UI, exceptional speed, and a seamless user experience.
+
+A high-utility web application designed to solve a critical pain point for students at VIT-AP by providing a fast and intuitive way to manage and plan their class attendance.
+
+-   **The Problem:** Students struggled with manually tracking their attendance, often leading to miscalculations and stress about meeting the mandatory percentage.
+-   **My Solution:** I architected and built a responsive Single-Page Application using **React.js** for a dynamic front-end and **Tailwind CSS** for a clean, mobile-first design. All calculations are handled efficiently on the client-side to ensure instantaneous feedback.
+-   **Key Outcome:** The app was adopted by hundreds of students, successfully eliminating manual tracking errors and providing clear, immediate insights into their academic standing.
 
 ---
 
