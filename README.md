@@ -38,15 +38,39 @@ I'm a **Computer Science student from India**, pursuing my **B.Tech in Computer 
 
 ### 🛠️ My Tech Stack
 
-Skills are organized by category for clarity. The design is unified for a clean, professional appearance.
+A showcase of my skills, organized by category in a clean, easy-to-read format.
 
 <div align="center">
-
-| Languages | Frontend | Backend & Database | Tools & Platforms |
-| :---: | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> |
-
+  <table>
+    <tr>
+      <td align="center"><strong>Languages</strong></td>
+      <td align="center"><strong>Frontend</strong></td>
+      <td align="center"><strong>Backend & Database</strong></td>
+      <td align="center"><strong>Tools & Platforms</strong></td>
+    </tr>
+    <tr valign="top">
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,javascript&theme=dark" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 ---
 
