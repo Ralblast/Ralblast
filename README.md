@@ -12,7 +12,7 @@
 I'm a **Computer Science student from India**, pursuing my **B.Tech in Computer Science and Engineering**.  
 I’m passionate about **software engineering**, **data structures & algorithms**, and **web development**.  
 I love learning new technologies, building projects, and improving my logical thinking every day.  
-Outside of tech, I enjoy reading books, playing chess, and boxing, gym. 
+Outside of tech, I enjoy reading books, playing chess, boxing, and hitting the gym.  
 
 ---
 
@@ -31,7 +31,7 @@ Outside of tech, I enjoy reading books, playing chess, and boxing, gym.
 
 ### 🧩 Featured Project
 #### 🗓️ [VIT-AP Attendance Planner](https://vit-ap-attendance-planner.vercel.app/)
-A smart web app to help VIT-AP students plan attendance efficiently.  
+A smart web app to help **VIT-AP students** plan attendance efficiently.  
 Built using **React.js**, **Tailwind CSS**, and **JavaScript**.  
 > Designed for clean UI, speed, and ease of use.
 
@@ -39,9 +39,10 @@ Built using **React.js**, **Tailwind CSS**, and **JavaScript**.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhisheksingh7566&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="160px" />
-  <img src="https://github-readme-streak-stats-git-main-rstaa.vercel.app?user=abhisheksingh7566&theme=tokyonight&hide_border=true&border_radius=10" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhisheksingh7566&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="160px" />
+  <img src="https://streak-stats.demolab.com?user=abhisheksingh7566&theme=tokyonight&hide_border=true&border_radius=10" height="160px" />
 </p>
+
 ---
 
 ### 🌐 Connect with Me
