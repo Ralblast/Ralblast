@@ -78,7 +78,7 @@ A showcase of my skills, organized by category in a clean, easy-to-read format.
 
 ### 🧩 Featured Project
 
-#### 🗓️ [VIT-AP Attendance Planner](https://vit-ap-attendance-planner.vercel.app/)
+#### 🗓️ <a href="https://vit-ap-attendance-planner.vercel.app/" target="_blank">VIT-AP Attendance Planner</a>
 
 A high-utility web application designed to solve a critical pain point for students at VIT-AP by providing a fast and intuitive way to manage and plan their class attendance.
 
