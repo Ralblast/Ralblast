@@ -36,10 +36,9 @@ Built using **React.js**, **Tailwind CSS**, and **JavaScript**.
 > Designed for clean UI, speed, and ease of use.
 
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisheksingh7566&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&token=${{ secrets.GITHUB_TOKEN }}" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhisheksingh7566&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&token=${{ secrets.READ_STATS_TOKEN }}" height="160px" />
   <img src="https://streak-stats.demolab.com?user=abhisheksingh7566&theme=tokyonight&hide_border=true&border_radius=10" height="160px" />
 </p>
 
