@@ -73,6 +73,8 @@ A showcase of my skills, organized by category in a clean, easy-to-read format.
   </table>
 </div>
 
+---
+
 
 ### 🧩 Featured Project
 
