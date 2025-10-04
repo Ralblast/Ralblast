@@ -36,45 +36,41 @@ I'm a **Computer Science student from India**, pursuing my **B.Tech in Computer 
 
 ---
 
-<td valign="top" width="60%">
-      
-### 🛠️ Core Technology Stack
-      
-Here are the primary tools and technologies I work with, organized by my areas of expertise to showcase my full-stack capabilities.
+### 🛠️ My Tech Stack
+
+A showcase of the primary tools and technologies I work with, organized by area of expertise.
 
 <div align="center">
 
   <h4>Languages</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,javascript,typescript&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=java,javascript&theme=dark" />
     </a>
   </p>
 
-  <h4>Frontend Development</h4>
+  <h4>Frontend</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
     </a>
   </p>
   
-  <h4>Backend & Databases</h4>
+  <h4>Backend & Database</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
     </a>
   </p>
   
-  <h4>Tools & DevOps</h4>
+  <h4>Tools & Platforms</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
     </a>
   </p>
 
 </div>
-      
-</td>
 ---
 
 ### 🧩 Featured Project
