@@ -1,84 +1,77 @@
-<div align="center">
-  <a href="https://github.com/Ralblast">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ralblast&theme=github_dark" alt="Ralblast's Profile Details" style="border-radius:10px;"/>
-  </a>
-</div>
-
-<div align="center">
-  <h1>Abhishek Singh | <span style="color:#0E75B6;">Software Engineer</span> 🚀</h1>
-  <h3>Building Scalable, Performant, and User-Centric Web Solutions.</h3>
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=490&lines=Full+Stack+Developer;Java+%7C+React+%7C+DSA+Lover;Always+Learning+and+Building" alt="Typing SVG" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I am a **Software Engineer** and **Computer Science student from India**, driven by a passion for developing high-impact software that solves real-world problems. My expertise lies in **Data Structures & Algorithms**, **Full-Stack Web Development**, and architecting clean, maintainable code.
-
--   **My Mission:** To translate complex requirements into elegant, efficient, and scalable technical solutions.
--   **What I Value:** I prioritize clean architecture, performance optimization, and creating an intuitive user experience in every project I undertake.
--   **Beyond the Keyboard:** Outside of coding, I enjoy the strategic challenges of chess, the discipline of boxing, and continuously expanding my knowledge through reading.
-
----
-
-## 🛠️ Core Technology Stack
-
-My technical skills are organized below, reflecting a focus on modern, robust, and scalable technologies.
-
-<div align="center">
-
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> |
-| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> |
-| **Backend & Database** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> |
-| **Tools & Version Control**| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> |
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+    Hey there, I'm Abhishek Singh
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/abhisheksingh7566" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:abhisheksingh708226@gmail.com" target="_blank">
+       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </div>
 </div>
 
 ---
 
-## 📌 Featured Project Showcase
+### 👨‍💻 About Me
 
-### 🗓️ [VIT-AP Attendance Planner](https://vit-ap-attendance-planner.vercel.app/)
-
-A high-utility web application designed to solve a critical pain point for students at VIT-AP by providing a fast and intuitive way to manage and plan their class attendance.
-
--   **The Challenge:** Students needed a reliable tool to calculate the number of classes they could miss without falling below the mandatory attendance threshold, a process that was often manual and error-prone.
--   **My Solution:** I architected and built a responsive Single-Page Application using **React.js** for a dynamic front-end and **Tailwind CSS** for a clean, mobile-first design. The application logic is handled efficiently on the client-side with JavaScript, ensuring instantaneous calculations.
--   **Key Outcome:** Delivered a fast, reliable, and user-friendly tool that simplifies attendance tracking and reduces student anxiety.
+I'm a **Software Engineer** and **Computer Science student from India** with a passion for building elegant, efficient, and scalable software solutions. I thrive on turning complex problems into clean, maintainable code and have a strong foundation in **Data Structures & Algorithms**. My goal is to create applications that are not only powerful but also provide a seamless user experience.
 
 ---
 
-## 📈 My GitHub Activity & Contributions
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+### 🛠️ Core Technologies
+      
+My toolkit is centered around modern, robust technologies for full-stack development.
 
+- **Languages:** `Java`, `JavaScript`
+- **Frontend:** `React`, `Tailwind CSS`
+- **Backend:** `Node.js`
+- **Database:** `MongoDB`
+- **Tools:** `Git`, `GitHub`
+      
+<br/>
+      
+### 🌱 Currently Exploring
+
+I believe in continuous growth. My current focus is on deepening my expertise in:
+
+- **System Design Principles**
+- **Cloud Computing (AWS)**
+- **Advanced Java Concepts**
+
+    </td>
+    <td valign="top" width="50%">
+
+### 📈 GitHub Activity
+      
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ralblast&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="160px" />
-  <img src="https://streak-stats.demolab.com?user=Ralblast&theme=tokyonight&hide_border=true&border_radius=10" height="160px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ralblast&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://github-contributor-graph.vercel.app/api?username=Ralblast&theme=github_dark&hide_border=true" alt="GitHub Contribution Graph"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ralblast&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats"/>
 </p>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Let's Connect
+### 🚀 Featured Project
 
-I am actively seeking new opportunities and am always open to connecting with fellow developers and tech enthusiasts.
+#### 🗓️ [VIT-AP Attendance Planner](https://vit-ap-attendance-planner.vercel.app/)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhisheksingh7566" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:abhisheksingh708226@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+A high-utility web app designed to solve a critical pain point for students at VIT-AP by providing a fast and intuitive way to manage and plan their class attendance.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ralblast&color=0E75B6&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</p>
+-   **The Challenge:** Students needed a reliable tool to calculate how many classes they could miss without falling below the mandatory attendance threshold.
+-   **My Solution:** I engineered a responsive Single-Page Application using **React.js** for a dynamic front-end and **Tailwind CSS** for a clean, mobile-first design.
+-   **Key Outcome:** Delivered a fast, reliable, and user-friendly tool that simplifies attendance tracking for hundreds of students.
+
+---
