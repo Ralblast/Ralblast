@@ -1,90 +1,77 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=280&section=header&text=Abhishek%20Singh&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner"/>
+</p>
+
 <div align="center">
-  <h1>Abhishek Singh | <span style="color:#0E75B6;">Software Engineer</span> 🚀</h1>
-  <h3>Full Stack Development | Data Structures & Algorithms | Cloud Computing</h3>
+
+<h3 align="center">🚀 Computer Science Student | Aspiring Software Engineer | Web Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%7C+React+%7C+DSA+Lover;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
 </div>
 
+---
+
+### 🌱 About Me
+
+I'm a **Computer Science student from India**, pursuing my **B.Tech in Computer Science and Engineering**. I am deeply passionate about turning complex problems into elegant software solutions.
+
+-   💡 My core interests are **software engineering**, **data structures & algorithms**, and **full-stack web development**.
+-   🎯 I love learning new technologies, building impactful projects, and improving my logical thinking every day.
+-   ⚡ Outside of tech, I enjoy reading books, playing competitive chess, boxing, and hitting the gym.
+
+---
+
+### 🛠️ My Tech Stack
+
+Skills are organized by category for clarity. The design is unified for a clean, professional appearance.
+
+<div align="center">
+
+| Languages | Frontend | Backend & Database | Tools & Platforms |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> |
+
+</div>
+
+---
+
+### 🧩 Featured Project
+
+#### 🗓️ [VIT-AP Attendance Planner](https://vit-ap-attendance-planner.vercel.app/)
+A smart, fast, and intuitive web app to help **VIT-AP students** plan their attendance efficiently.
+-   **Built With:** **React.js**, **Tailwind CSS**, and **JavaScript**.
+-   **Core Focus:** Designed for a clean UI, exceptional speed, and a seamless user experience.
+
+---
+
+### 📊 My GitHub Stats
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=490&lines=Full+Stack+Developer;Java+%7C+React+%7C+DSA+Lover;Always+Learning+and+Building" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhisheksingh7566&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="160px" />
+  <img src="https://streak-stats.demolab.com?user=abhisheksingh7566&theme=tokyonight&hide_border=true&border_radius=10" height="160px" />
 </p>
 
 ---
 
-## 👨‍💻 About Me: Driven by Code
-
-I'm a **Computer Science Engineering (B.Tech) student from India** with a strong foundation in **Data Structures & Algorithms (DSA)** and a passion for building robust, scalable applications.
-
-My focus is on translating complex challenges into elegant, high-performance software solutions. I'm actively pursuing opportunities in **Software Engineering**.
-
--   💡 I thrive on learning new **cloud architectures** and optimizing code for efficiency.
--   ⚡ Outside of tech: You can find me reading non-fiction, sparring in the boxing gym, or focused on a competitive chess match.
-
----
-
-## 🛠️ Core Technology Stack
-
-I prioritize building efficient, modern applications using the following stack. All badges are standardized for a unified look (flat style, dark background, primary blue color).
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-0E75B6?logo=java&logoColor=white&style=flat-square&labelColor=1F2937" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-0E75B6?logo=javascript&logoColor=white&style=flat-square&labelColor=1F2937" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-0E75B6?logo=react&logoColor=white&style=flat-square&labelColor=1F2937" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-0E75B6?logo=node.js&logoColor=white&style=flat-square&labelColor=1F2937" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-0E75B6?logo=mongodb&logoColor=white&style=flat-square&labelColor=1F2937" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0E75B6?logo=tailwind-css&logoColor=white&style=flat-square&labelColor=1F2937" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Git-0E75B6?logo=git&logoColor=white&style=flat-square&labelColor=1F2937" alt="Git"/>
-</p>
-
----
-
-## 📌 Featured Project: Utility & Impact
-### 🗓️ [VIT-AP Attendance Planner](https://vit-ap-attendance-planner.vercel.app/)
-
-A highly efficient, single-page application (SPA) designed to help **VIT-AP students** manage and plan their required class attendance, solving a real-world student pain point.
-
--   **Tech Used:** **React.js**, **Tailwind CSS**, JavaScript.
--   **Focus:** Optimized for **speed** and **intuitive UI/UX** with a clean, mobile-first design.
-
----
-
-## 🎯 Development Principles
-As an engineer, I focus on delivering code that is not just functional, but maintainable and scalable.
-
--   **Efficiency First:** Always aiming for $O(\log n)$ or $O(1)$ solutions over brute force, prioritizing speed and resource optimization.
--   **Clean Architecture:** Believing in SOLID principles and clean code to ensure long-term project health.
--   **User-Centric UI/UX:** Leveraging my web development skills to ensure the end-user experience is seamless and intuitive.
-
----
-
-## 📈 GitHub Activity and Insights
-
-We display key metrics to provide a snapshot of your activity and contributions.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksingh7566&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" height="180px" />
-  
-  <img src="https://streak-stats.demolab.com?user=abhisheksingh7566&theme=tokyonight&hide_border=true&border_radius=10" height="180px" />
-</p>
-
----
-
-## 🌐 Connect & Collaborate
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhisheksingh7566" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=1F2937" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:abhisheksingh708226@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?logo=gmail&logoColor=white&style=for-the-badge&labelColor=1F2937" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/abhisheksingh7566?label=Followers&style=flat-square&logo=GitHub&color=0E75B6&labelColor=1F2937" alt="GitHub Followers"/>
-    <img src="https://komarev.com/ghpvc/?username=abhisheksingh7566&color=0E75B6&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=abhisheksingh7566&color=0E75B6&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </p>
 
----
-
 <p align="center">
-  <small>⭐ Crafted and Engineered by <b>Abhishek Singh</b></small>
+  <small>✨ Crafted with passion by <b>Abhishek Singh</b></small>
 </p>
