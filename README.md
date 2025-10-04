@@ -12,7 +12,7 @@
 I'm a **Computer Science student from India**, pursuing my **B.Tech in Computer Science and Engineering**.  
 I’m passionate about **software engineering**, **data structures & algorithms**, and **web development**.  
 I love learning new technologies, building projects, and improving my logical thinking every day.  
-Outside of tech, I enjoy reading books, playing chess, and boxing 🥊.
+Outside of tech, I enjoy reading books, playing chess, and boxing, gym. 
 
 ---
 
@@ -33,7 +33,7 @@ Outside of tech, I enjoy reading books, playing chess, and boxing 🥊.
 #### 🗓️ [VIT-AP Attendance Planner](https://vit-ap-attendance-planner.vercel.app/)
 A smart web app to help VIT-AP students plan attendance efficiently.  
 Built using **React.js**, **Tailwind CSS**, and **JavaScript**.  
-> 🚀 Designed for clean UI, speed, and ease of use.
+> Designed for clean UI, speed, and ease of use.
 
 ---
 
@@ -50,11 +50,8 @@ Built using **React.js**, **Tailwind CSS**, and **JavaScript**.
   <a href="https://www.linkedin.com/in/abhisheksingh7566" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="mailto:yourname@example.com" target="_blank">
+  <a href="mailto:abhisheksingh708226@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
-  </a>
-  <a href="https://github.com/abhisheksingh7566" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
   </a>
 </p>
 
