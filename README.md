@@ -116,5 +116,5 @@ A high-utility web application designed to solve a critical pain point for stude
 </p>
 
 <p align="center">
-  <small>✨ Crafted with passion by <b>Abhishek Singh</b></small>
+  <small>✨ Built with passion. Refined with purpose. </small>
 </p>
