@@ -97,6 +97,15 @@ A high-utility web application designed to solve a critical pain point for stude
 -   **The Problem:** Students struggled with manually tracking their attendance, often leading to miscalculations and stress about meeting the mandatory percentage.
 -   **My Solution:** I architected and built a responsive Single-Page Application using **React.js** for a dynamic front-end and **Tailwind CSS** for a clean, mobile-first design. All calculations are handled efficiently on the client-side to ensure instantaneous feedback.
 -   **Key Outcome:** The app was adopted by hundreds of students, successfully eliminating manual tracking errors and providing clear, immediate insights into their academic standing.
+-   
+#### 🏥 [Healthcare Symptom Checker ↗️](https://health-care-symptom-checker-seven.vercel.app/)
+
+A full-stack healthcare web application that intelligently analyzes user-reported symptoms and suggests possible medical conditions using AI-driven insights.
+
+- **The Problem:** People often struggle to understand their symptoms before consulting a doctor, leading to confusion or misinformation from unreliable sources.  
+- **My Solution:** Built a secure and scalable system using **React (Vite)**, **Node.js**, **Express**, and **MongoDB** with **Grok AI** integration for intelligent symptom analysis. Implemented RESTful APIs with **Helmet**, **CORS**, input validation, and **Winston logging** for robust backend performance.  
+- **Key Outcome:** Delivered an AI-powered diagnostic experience with a structured multi-step workflow, maintaining **95% uptime** through **Vercel** and **Render** deployments with active health monitoring.
+
 
 ---
 
