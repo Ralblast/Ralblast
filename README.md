@@ -105,6 +105,16 @@ A high-utility web application designed to solve a critical pain point for stude
   <img src="https://streak-stats.demolab.com?user=Ralblast&theme=tokyonight&hide_border=true&border_radius=10" height="160px" />
 </p>
 
+
+---
+  <br>
+  
+  <!-- GitHub Trophies -->
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Xenonesis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  </div>
+  
+  <br>
 ---
 
 ### 🌐 Let's Connect
