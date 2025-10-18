@@ -100,22 +100,49 @@ A high-utility web application designed to solve a critical pain point for stude
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ralblast&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="160px" />
-  <img src="https://streak-stats.demolab.com?user=Ralblast&theme=tokyonight&hide_border=true&border_radius=10" height="160px" />
-</p>
+<!-- 📊 GITHUB ANALYTICS & INSIGHTS -->
+<div align="center">
 
+  <h2>📊 GitHub Analytics & Statistics</h2>
 
----
-  <br>
-  
-  <!-- GitHub Trophies -->
+  <!-- 🔹 Profile Overview Badges -->
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Xenonesis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+    <img src="https://komarev.com/ghpvc/?username=Ralblast&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/Ralblast?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/Ralblast?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+    <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Ralblast&style=for-the-badge&color=green" alt="Public Repos" />
   </div>
-  
+
   <br>
----
+
+  <!-- 🔹 GitHub Stats & Top Languages -->
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ralblast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralblast&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=8" alt="Top Languages" />
+  </div>
+
+  <br>
+
+  <!-- 🔹 GitHub Streak Stats -->
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ralblast&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  </div>
+
+  <br>
+
+  <!-- 🔹 Contribution Graph -->
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ralblast&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
+  </div>
+
+  <br>
+
+  <!-- 🔹 GitHub Trophies -->
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ralblast&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  </div>
+
+</div>
 
 ### 🌐 Let's Connect
 
