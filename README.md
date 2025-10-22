@@ -15,13 +15,15 @@
     alt="Typing SVG" 
   />
 </p>
-<p>
-  <a href="https://www.linkedin.com/in/abhisheksingh7566" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhisheksingh7566" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn Icon" width="38" style="vertical-align: middle; margin-right: 8px;"/>
+    <span style="background-color:#0A66C2; color:white; padding:8px 14px; border-radius:8px; font-weight:600; font-family:Segoe UI, sans-serif; font-size:14px;">LinkedIn</span>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:abhisheksingh708226@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:abhisheksingh708226@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email Icon" width="38" style="vertical-align: middle; margin-right: 8px;"/>
+    <span style="background-color:#EA4335; color:white; padding:8px 14px; border-radius:8px; font-weight:600; font-family:Segoe UI, sans-serif; font-size:14px;">Email</span>
   </a>
 </p>
 
