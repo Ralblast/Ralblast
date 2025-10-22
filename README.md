@@ -126,11 +126,12 @@ A full-stack healthcare web application that intelligently analyzes user-reporte
 
   <br>
 
-  <!-- 🔹 GitHub Stats & Top Languages -->
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ralblast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralblast&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=8" alt="Top Languages" />
-  </div>
+<!-- 🔹 GitHub Stats & Top Languages -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ralblast&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralblast&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=8" alt="Top Languages" />
+</div>
+
 
   <br>
 
