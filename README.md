@@ -1,7 +1,5 @@
 <div align="center">
-  //<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-13953bf27ed6.gif" alt="Animated Professional Banner" width="100%">
   
-  <br>
   
   <h1>
    &lt;h1&gt;Hey there, I'm Abhishek Singh&lt;/h1&gt;
