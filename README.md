@@ -29,7 +29,9 @@
 </div>
 
 
-### 🌱 About Me
+---
+
+## `$ java AboutMe.java`
 
 I'm a **Computer Science student from India**, pursuing my **B.Tech in Computer Science and Engineering**. I am deeply passionate about turning complex problems into elegant software solutions.
 
@@ -55,7 +57,7 @@ I'm a **Computer Science student from India**, pursuing my **B.Tech in Computer 
 
 
 
-###  Featured Project
+## `$ node featured_project.js`
 
 #### 🗓️ [VIT-AP Attendance Planner ↗️](https://vit-ap-attendance-planner.vercel.app/)
 
@@ -84,7 +86,7 @@ A full-stack healthcare web application that intelligently analyzes user-reporte
 
 </div>
 
-### 🌐 Let's Connect
+## `$ python connect.py`
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhisheksingh7566" target="_blank">
