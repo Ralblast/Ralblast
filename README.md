@@ -61,44 +61,18 @@ I'm a **Computer Science student from India**, pursuing my **B.Tech in Computer 
 
 ---
 
-### 🛠️ My Tech Stack
-
-A showcase of my skills, organized by category in a clean, easy-to-read format.
+## `$ cat stack.json`
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>Languages</strong></td>
-      <td align="center"><strong>Frontend</strong></td>
-      <td align="center"><strong>Backend & Database</strong></td>
-      <td align="center"><strong>Tools & Platforms</strong></td>
-    </tr>
-    <tr valign="top">
-      <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,javascript&theme=dark" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
----
+| Layer | Technologies |
+|:---:|:---:|
+| **Languages** | [![](https://skillicons.dev/icons?i=java,javascript,typescript&theme=dark)](https://skillicons.dev) |
+| **Frontend** | [![](https://skillicons.dev/icons?i=react,tailwind,vite,html,css&theme=dark)](https://skillicons.dev) |
+| **Backend** | [![](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)](https://skillicons.dev) |
+| **Tooling** | [![](https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark)](https://skillicons.dev) |
+
+</div>
 
 
 ### 🧩 Featured Project
