@@ -77,15 +77,10 @@ A full-stack healthcare web application that intelligently analyzes user-reporte
 <!-- 📊 GitHub Activity -->
 
 ---
- <h2>Activity</h2>
-
+<!-- Contribution Graph -->
 <div align="center">
 
-
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ralblast&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralblast&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ralblast&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true" />
 
 </div>
 
