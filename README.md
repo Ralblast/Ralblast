@@ -5,11 +5,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 </h1>
 
-<h3>Computer Science Student · Aspiring Software Engineer · Full Stack Developer</h3>
+<h3>Backend-focused software developer with full-stack experiences</h3>
 
 <p>
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+real-world+projects;Full-stack+development;Problem+solving+with+DSA;Always+learning%2C+always+shipping" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1400&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+by+building%2C+not+watching;Picking+things+up+fast+and+going+deep;Turning+ideas+into+working+products;Shipping+consistently%2C+improving+daily" 
     alt="Typing SVG" 
   />
 </p>
