@@ -1,44 +1,28 @@
 <div align="center">
-  
-  
-  <h1>
-   &lt;h1&gt;Hey there, I'm Abhishek Singh&lt;/h1&gt;
-    <img src="https.media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  
-  <h3> Computer Science Student | Aspiring Software Engineer | Full Stack developer</h3>
- <p align="center">
+
+<h1>
+  Hey there, I'm Abhishek Singh
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+</h1>
+
+<h3>Computer Science Student · Aspiring Software Engineer · Full Stack Developer</h3>
+
+<p>
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Transforming+Ideas+into+Code;Building+Scalable+and+Reliable+Systems;Crafting+Logic+with+Creativity;Learning+Relentlessly%2C+Improving+Daily;Coding+with+Passion+and+Precision" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+real-world+projects;Full-stack+development;Problem+solving+with+DSA;Always+learning%2C+always+shipping" 
     alt="Typing SVG" 
   />
 </p>
 
-
- <!-- email and linkedin  -->
- 
-<!-- <p align="center">
-  <a href="https://www.linkedin.com/in/abhisheksingh7566" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn Icon" width="38" style="vertical-align: middle; margin-right: 6px;"/>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn Badge" style="vertical-align: middle;"/>
-  </a>
-
-  <a href="mailto:abhisheksingh708226@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email Icon" width="38" style="vertical-align: middle; margin-right: 6px;"/>
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logoColor=white" alt="Email Badge" style="vertical-align: middle;"/>
-  </a>
-</p> -->
-
-<p align="centre">
+<p>
   <a href="https://www.linkedin.com/in/abhisheksingh7566" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp; <a href="mailto:abhisheksingh708226@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  &nbsp;
+  <a href="mailto:abhisheksingh708226@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-
 
 </div>
 
