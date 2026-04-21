@@ -42,7 +42,7 @@
 
 </div>
 
-## activity
+##
 
 <div align="center">
 
