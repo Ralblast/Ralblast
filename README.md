@@ -30,9 +30,9 @@
 
 I'm a **Computer Science student from India**, pursuing my **B.Tech in Computer Science and Engineering**. I focus on turning real problems into usable software.
 
-- 💡 Interests: **software engineering**, **DSA**, **full-stack development**
+- 💡 Interests: LLMs,Backend, Agentic AI
 - 🎯 Learning by building and improving daily
-- ⚡ Outside tech: chess, boxing, gym
+- ⚡ Outside tech: chess, boxing, gym, reading non-fiction
 
 ---
 
