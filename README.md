@@ -66,7 +66,7 @@ I'm a **Computer Science student from India**, pursuing my **B.Tech in Computer 
 - Full-stack AI-based symptom analysis system
 - Secure backend (Node, Express, MongoDB)
 - Logging, validation, and structured APIs
-- ~95% uptime (Vercel + Render)
+- Monitoring uptime via healthchecks
 
 ---
 
