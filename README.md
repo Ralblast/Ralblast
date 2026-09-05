@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 </h1>
 
-<h3>Backend-focused software developer · full-stack capable</h3>
+<h3>Backend-focused software developer · full-stack + Generative AI</h3>
 
 <p>
   <img 
